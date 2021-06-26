@@ -33,6 +33,7 @@ on your <a href="https://debian.com/">Debian</a>/<a href="https://ubuntu.com/">U
 <br /><br /><br /><br />
 
 # Installation
-just run: <pre>sudo dpkg -i --force-all [the package name]</pre><br />
-you'll get a warning becouse on the most machines `clear` command <br />
+just run: <pre>sudo dpkg -i --force-all [the package name]</pre><br /><br />
+
+You'll get a warning becouse on the most machines `clear` command <br />
 is installed and the package want to overwrite it. <br />
