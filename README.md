@@ -1,0 +1,2 @@
+# clear
+The clear commands
