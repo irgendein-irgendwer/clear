@@ -28,3 +28,4 @@ on your <a href="https://debian.com/">Debian</a>/<a href="https://ubuntu.com/">U
 | ------------- | ----------- |
 | [source/main.c](https://github.com/mrehfeld-code/clear/raw/main/source/main.c) | well the C source code |
 | [arm64/clear.deb](https://github.com/mrehfeld-code/clear/raw/main/arm64/clear.deb) | the arm64 build (more information [here](https://github.com/mrehfeld-code/clear/tree/main/arm64#readme)) |
+| [amd64/clear.deb](https://github.com/mrehfeld-code/clear/raw/main/amd64/clear.deb) | the arm64 build (more information [here](https://github.com/mrehfeld-code/clear/tree/main/adm64#readme)) |
