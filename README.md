@@ -24,3 +24,6 @@ on your <a href="https://debian.com/">Debian</a>/<a href="https://ubuntu.com/">U
 <br /><br /><br /><br />
 
 # Downloads
+| download link | description |
+| ------------- | ----------- |
+| [source/main.c](https://github.com/mrehfeld-code/clear/raw/main/source/main.c) | well the C source code |
